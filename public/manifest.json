@@ -1,0 +1,15 @@
+{
+  "short_name": "Dummy Tesla Website",
+  "name": "Dummy Tesla Website",
+  "icons": [
+    {
+      "src": "tracker-icon.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#e82127",
+  "background_color": "#ffffff"
+}
