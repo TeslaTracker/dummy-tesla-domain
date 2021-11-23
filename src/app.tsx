@@ -1,6 +1,7 @@
 import './app.scss';
 
 (window as any).tesla = {
+  date: 123456789,
   DSServices: {
     base_url: 'https://www.tesla.com',
     configurator_url: 'https://www.tesla.com/model3/design',
